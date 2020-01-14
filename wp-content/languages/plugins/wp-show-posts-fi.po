@@ -1,0 +1,537 @@
+# Translation of Plugins - WP Show Posts - Stable (latest release) in Finnish
+# This file is distributed under the same license as the Plugins - WP Show Posts - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-09-04 20:17:39+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fi\n"
+"Project-Id-Version: Plugins - WP Show Posts - Stable (latest release)\n"
+
+#: admin/metabox.php:479
+msgid "Read more button class"
+msgstr "Lue lisää -painikkeen luokka"
+
+#: inc/functions.php:111
+msgid "% Comments"
+msgstr "% kommenttia"
+
+#: inc/functions.php:111
+msgid "Leave a comment"
+msgstr "Jätä kommentti"
+
+#: admin/metabox.php:643
+msgid "Comments link location"
+msgstr "Kommentit -linkin sijainti"
+
+#: admin/metabox.php:625
+msgid "Include comments link"
+msgstr "Sisällytä kommenttien linkki"
+
+#: admin/metabox.php:434
+msgid "Title element"
+msgstr "Otsikon elementti"
+
+#: inc/functions.php:111
+msgid "1 Comment"
+msgstr "1 kommentti"
+
+#: admin/metabox.php:919
+msgid "No results message"
+msgstr "Ei tuloksia -viesti"
+
+#: admin/metabox.php:726
+msgid "Exclude Post IDs"
+msgstr "Jätä pois nämä Post IDt"
+
+#: admin/metabox.php:663
+msgid "More settings"
+msgstr "Lisää asetuksia"
+
+#. Author of the plugin/theme
+msgid "Tom Usborne"
+msgstr "Tom Usborne"
+
+#. Author URI of the plugin/theme
+msgid "https://tomusborne.com"
+msgstr "https://tomusborne.com"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wpshowposts.com"
+msgstr "https://wpshowposts.com"
+
+#: inc/defaults.php:59
+msgid "Sorry, no posts were found."
+msgstr "Valitettavasti mitään ei löytynyt."
+
+#: inc/functions.php:389
+msgid "Next &rarr;"
+msgstr "Seuraava &rarr;"
+
+#: inc/functions.php:388
+msgid "&larr; Previous"
+msgstr "&larr; Edellinen"
+
+#: inc/functions.php:70
+msgid "View all posts by %s"
+msgstr "Näytä kaikki kirjoittajan %s julkaisut"
+
+#: admin/post-type.php:35
+msgid "Use as featured image"
+msgstr "Käytä artikkelikuvana"
+
+#: admin/post-type.php:34
+msgid "Remove featured image"
+msgstr "Poista artikkelikuva"
+
+#: admin/post-type.php:33
+msgid "Set featured image"
+msgstr "Aseta artikkelikuva"
+
+#: admin/post-type.php:32
+msgid "Featured Image"
+msgstr "Artikkelikuva"
+
+#: admin/post-type.php:30
+msgid "Not found"
+msgstr "Ei löydy"
+
+#: admin/metabox.php:981
+msgid "Shortcode"
+msgstr "Lyhytkoodi (shortcode)"
+
+#: admin/metabox.php:968
+msgid "Usage"
+msgstr "Käyttö"
+
+#: admin/metabox.php:877
+msgid "Meta value"
+msgstr "Meta arvo"
+
+#: admin/metabox.php:860
+msgid "Meta key"
+msgstr "Meta avain"
+
+#: admin/metabox.php:841
+msgid "Any"
+msgstr "Mikä tahansa"
+
+#: admin/metabox.php:840
+msgid "Trash"
+msgstr "Roskakori"
+
+#: admin/metabox.php:839
+msgid "Inherit"
+msgstr "Periytä"
+
+#: admin/metabox.php:838
+msgid "Private"
+msgstr "Yksityinen"
+
+#: admin/metabox.php:837
+msgid "Future"
+msgstr "Tuleva"
+
+#: admin/metabox.php:836
+msgid "Auto draft"
+msgstr "Automaattinen luonnos"
+
+#: admin/metabox.php:835
+msgid "Draft"
+msgstr "Luonnos"
+
+#: admin/metabox.php:834
+msgid "Pending"
+msgstr "Tila odottaa"
+
+#: admin/metabox.php:833
+msgid "Published"
+msgstr "Julkaistu"
+
+#: admin/metabox.php:831
+msgid "Status"
+msgstr "Tila"
+
+#: admin/metabox.php:812
+msgid "Comment count"
+msgstr "Kommenttien lukumäärä"
+
+#: admin/metabox.php:811
+msgid "Random"
+msgstr "Satunnainen"
+
+#: admin/metabox.php:810
+msgid "Parent"
+msgstr "Ylempi taso"
+
+#: admin/metabox.php:809
+msgid "Modified"
+msgstr "Muokattu"
+
+#: admin/metabox.php:808
+msgid "Date"
+msgstr "Päivämäärä"
+
+#: admin/metabox.php:806
+msgid "Slug"
+msgstr "Slug"
+
+#: admin/metabox.php:805
+msgid "Title"
+msgstr "Otsikko"
+
+#: admin/metabox.php:804
+msgid "Author"
+msgstr "Julkaisija"
+
+#: admin/metabox.php:803
+msgid "ID"
+msgstr "ID"
+
+#: admin/metabox.php:802
+msgid "No order"
+msgstr "Järjestämätön"
+
+#: admin/metabox.php:780
+msgid "Descending"
+msgstr "Aleneva"
+
+#: admin/metabox.php:781
+msgid "Ascending"
+msgstr "Nouseva"
+
+#: admin/metabox.php:778
+msgid "Order"
+msgstr "Järjestys"
+
+#: admin/metabox.php:761
+msgid "Offset"
+msgstr "Offset"
+
+#: admin/metabox.php:709
+msgid "Post IDs"
+msgstr "Post IDt"
+
+#: admin/metabox.php:603
+msgid "Terms location"
+msgstr "Termien sijainti"
+
+#: admin/metabox.php:585
+msgid "Include terms"
+msgstr "Sisällytä termit"
+
+#: admin/metabox.php:563
+msgid "Date location"
+msgstr "Päivämäärän sijainti"
+
+#: admin/metabox.php:545
+msgid "Include date"
+msgstr "Sisällytä päivämäärä"
+
+#: admin/metabox.php:526 admin/metabox.php:566 admin/metabox.php:606
+#: admin/metabox.php:646
+msgid "Below post"
+msgstr "Kirjoituksen alapuolella"
+
+#: admin/metabox.php:523
+msgid "Author location"
+msgstr "Kirjoittajan sijainti"
+
+#: admin/metabox.php:505
+msgid "Include author"
+msgstr "Sisällytä kirjoittaja"
+
+#: admin/metabox.php:495
+msgid "Meta"
+msgstr "Meta"
+
+#: admin/metabox.php:415
+msgid "Include title"
+msgstr "Sisällytä otsikko"
+
+#: admin/metabox.php:378
+msgid "None"
+msgstr "Ei mitään"
+
+#: admin/metabox.php:377
+msgid "Full"
+msgstr "Täysi"
+
+#: admin/metabox.php:376
+msgid "Excerpt"
+msgstr "Ote"
+
+#: admin/metabox.php:397
+msgid "Excerpt length (words)"
+msgstr "Otteen pituus (sanoja)"
+
+#: admin/metabox.php:364
+msgid "Content"
+msgstr "Sisältö"
+
+#: admin/metabox.php:347
+msgid "Above title"
+msgstr "Otsikon yläpuolella"
+
+#: admin/metabox.php:346 admin/metabox.php:525 admin/metabox.php:565
+#: admin/metabox.php:605 admin/metabox.php:645
+msgid "Below title"
+msgstr "Otsikon alapuolella"
+
+#: admin/metabox.php:344
+msgid "Image location"
+msgstr "Kuvan sijainti"
+
+#: admin/metabox.php:325
+msgid "Right"
+msgstr "Oikealla"
+
+#: admin/metabox.php:324
+msgid "Center"
+msgstr "Keskellä"
+
+#: admin/metabox.php:323
+msgid "Left"
+msgstr "Vasemmalla"
+
+#: admin/metabox.php:321
+msgid "Image alignment"
+msgstr "Kuvan asemointi"
+
+#: admin/metabox.php:303
+msgid "Image height (px)"
+msgstr "Kuvan korkeus (px)"
+
+#: admin/metabox.php:285
+msgid "Image width (px)"
+msgstr "Kuvan leveys (px)"
+
+#: admin/metabox.php:257 admin/metabox.php:267
+msgid "Images"
+msgstr "Kuvat"
+
+#: admin/metabox.php:241
+msgid "Columns gutter"
+msgstr "Palstojen välinen tila"
+
+#: admin/metabox.php:206 admin/metabox.php:216
+msgid "Columns"
+msgstr "Palstat"
+
+#: admin/metabox.php:190
+msgid "Pagination should only be used if your posts are the only thing in the content area to prevent duplicate content issues."
+msgstr "Sisällön monistumisen välttämiseksi, sivutusta tulee käyttää ainoastaan silloin, kun artikkelisi ovat ainoa sisältö sisältöalueella."
+
+#: admin/metabox.php:189
+msgid "Pagination"
+msgstr "Sivutus"
+
+#: admin/metabox.php:154
+msgid "Terms"
+msgstr "Termit"
+
+#: admin/metabox.php:135
+msgid "Taxonomy"
+msgstr "Taksonomia"
+
+#. Translators: 1: month, 2: day, 3: year.
+#: admin/butterbean/tmpl/control-date.php:52
+#: admin/butterbean/tmpl/control-datetime.php:52
+msgid "%1$s %2$s, %3$s"
+msgstr "%1$s %2$s, %3$s"
+
+#. Translators: 1: month, 2: day, 3: year, 4: hour, 5: minute, 6: second.
+#: admin/butterbean/tmpl/control-date.php:46
+#: admin/butterbean/tmpl/control-datetime.php:46
+msgid "%1$s %2$s, %3$s @ %4$s:%5$s:%6$s"
+msgstr "%1$s %2$s, %3$s @ %4$s:%5$s:%6$s"
+
+#: admin/butterbean/inc/controls/class-control-image.php:71
+msgid "No image selected"
+msgstr "Ei kuvaa valittuna"
+
+#: admin/butterbean/inc/controls/class-control-image.php:70
+msgid "Remove image"
+msgstr "Poista kuva"
+
+#: admin/butterbean/inc/controls/class-control-image.php:69
+msgid "Change image"
+msgstr "Vaihda kuva"
+
+#: admin/butterbean/inc/controls/class-control-image.php:68
+msgid "Choose image"
+msgstr "Valitse kuva"
+
+#: admin/butterbean/inc/controls/class-control-image.php:67
+msgid "Set as image"
+msgstr "Aseta kuvaksi"
+
+#: admin/butterbean/inc/controls/class-control-image.php:66
+msgid "Add image"
+msgstr "Lisää kuva"
+
+#: admin/butterbean/inc/controls/class-control-date.php:131
+#: admin/butterbean/inc/controls/class-control-datetime.php:136
+msgid "Second"
+msgstr "Sekunti"
+
+#: admin/butterbean/inc/controls/class-control-date.php:123
+#: admin/butterbean/inc/controls/class-control-datetime.php:128
+msgid "Minute"
+msgstr "Minuutti"
+
+#: admin/butterbean/inc/controls/class-control-date.php:115
+#: admin/butterbean/inc/controls/class-control-datetime.php:120
+msgid "Hour"
+msgstr "Tunti"
+
+#: admin/butterbean/inc/controls/class-control-date.php:107
+#: admin/butterbean/inc/controls/class-control-datetime.php:112
+msgid "Day"
+msgstr "Päivä"
+
+#: admin/butterbean/inc/controls/class-control-date.php:83
+#: admin/butterbean/inc/controls/class-control-datetime.php:88
+msgid "Month"
+msgstr "Kuukausi"
+
+#: admin/butterbean/inc/controls/class-control-date.php:74
+#: admin/butterbean/inc/controls/class-control-datetime.php:79
+msgid "Year"
+msgstr "Vuosi"
+
+#. #-#-#-#-#  wp-show-posts-code.pot (WP Show Posts 1.1.3)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: admin/admin.php:35 admin/metabox.php:94 admin/post-type.php:18
+#: admin/post-type.php:19 admin/widget.php:19
+msgid "WP Show Posts"
+msgstr "WP Show Posts"
+
+#: admin/post-type.php:40
+msgid "Filter items list"
+msgstr "Suodata listoista"
+
+#: admin/post-type.php:39
+msgid "Items list navigation"
+msgstr "Kohdelista navigointi"
+
+#: admin/post-type.php:38
+msgid "Items list"
+msgstr "Lista kohteista"
+
+#: admin/post-type.php:37
+msgid "Uploaded to this list"
+msgstr "Ladattu tähän listaan"
+
+#: admin/post-type.php:36
+msgid "Insert into list"
+msgstr "Lisää listaan"
+
+#: admin/post-type.php:29
+msgid "Search List"
+msgstr "Hae listoista"
+
+#: admin/post-type.php:28
+msgid "View List"
+msgstr "Näytä lista"
+
+#: admin/post-type.php:27
+msgid "Update List"
+msgstr "Päivitä lista"
+
+#: admin/post-type.php:26
+msgid "Edit List"
+msgstr "Muokkaa listaa"
+
+#: admin/post-type.php:25
+msgid "New List"
+msgstr "Uusi lista"
+
+#: admin/post-type.php:24
+msgid "Add New"
+msgstr "Lisää uusi"
+
+#: admin/post-type.php:23
+msgid "Add New List"
+msgstr "Lisää uusi lista"
+
+#: admin/post-type.php:22
+msgid "All Lists"
+msgstr "Kaikki listat"
+
+#: admin/post-type.php:21
+msgid "Parent List:"
+msgstr "Ylemmän tason lista:"
+
+#: admin/post-type.php:20
+msgid "List Archives"
+msgstr "Listojen arkisto"
+
+#: admin/metabox.php:743
+msgid "Ignore sticky posts"
+msgstr "Älä huomioi kiinnitettyjä julkaisuja"
+
+#: admin/metabox.php:172
+msgid "Posts per page"
+msgstr "Julkaisujen lukumäärä sivulla"
+
+#: admin/post-type.php:17
+msgctxt "Post Type Singular Name"
+msgid "Post List"
+msgstr "Lista julkaisuista"
+
+#: admin/post-type.php:16
+msgctxt "Post Type General Name"
+msgid "Post Lists"
+msgstr "Listat julkaisuista"
+
+#: admin/metabox.php:674
+msgid "Author ID"
+msgstr "Author ID"
+
+#: admin/metabox.php:106
+msgid "Posts"
+msgstr "Julkaisut"
+
+#: admin/post-type.php:31
+msgid "Not found in Trash"
+msgstr "Ei löytynyt roskakorista"
+
+#: admin/metabox.php:116 admin/metabox.php:807
+msgid "Post type"
+msgstr "Sisältötyyppi"
+
+#: admin/metabox.php:800
+msgid "Order by"
+msgstr "Minkä mukaan järjestetty"
+
+#: admin/metabox.php:462
+msgid "Read more text"
+msgstr "Lue lisää -teksti"
+
+#: admin/metabox.php:894
+msgid "Tax operator"
+msgstr "Taksonomia -kyselyn operaattori"
+
+#: admin/metabox.php:691
+msgid "Exclude current"
+msgstr "Älä sisällytä nykyistä"
+
+#: admin/post-type.php:43
+msgid "Post List"
+msgstr "Kaikki listat"
+
+#: admin/metabox.php:374
+msgid "Content type"
+msgstr "Sisällön tyyppi"
+
+#: admin/metabox.php:984
+msgid "Function"
+msgstr "Funktio"
+
+#. Description of the plugin/theme
+msgid "WP Show Posts allows you to list posts (from any post type) anywhere on your site. This includes WooCommerce products or any other post type you might have! Check out the pro version for even more features at https://wpshowposts.com."
+msgstr "WP Show Posts -lisäosan avulla voit listata kaikkia julkaisuja (mikä vain post type) minne tahansa sivustollasi, siis myös esim. WooCommerce tuotteita tai mitä sisältötyyppejä saatatkaan käyttää! Tutustu myös pro version edistyneisiin ominaisuuksiin https://wpshowposts.com -osoitteessa."

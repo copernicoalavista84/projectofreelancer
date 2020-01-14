@@ -1,0 +1,23 @@
+/*--
+	Theme Name: theme52700
+	Theme URI: http://info.template-help.com/help/
+	Description: A theme for Wordpress 3.8.x
+	Author: Template_Help.com
+	Author URI: http://info.template-help.com/help/
+	Template: CherryFramework
+	Version: 3.1.5
+--*/
+
+/* ----------------------------------------
+	Please, You may put custom CSS here
+---------------------------------------- */
+
+/* Color for normal color of the text of the logo */
+.logo_link {
+	color: #ffffe6!important;
+}
+/* Color for hover  color of the text of the logo */
+.logo_link:hover {
+color: #00004d!important;
+text-decoration: none;
+}

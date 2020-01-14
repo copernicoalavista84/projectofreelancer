@@ -1,0 +1,83 @@
+# Translation of Stable (latest release) in Italian
+# This file is distributed under the same license as the Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-09-18 17:45:23+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Stable (latest release)\n"
+
+#: wp-gallery-custom-links.php:85
+msgid "Gallery Link URL"
+msgstr "URL di collegamento alla Galleria"
+
+#: wp-gallery-custom-links.php:88
+msgid "Will replace \"Image File\" or \"Attachment Page\" link for this image in galleries. Use [none] to remove the link from this image in galleries."
+msgstr "Sostituirà \"file media\" o un link \"Allegato Pagina\" di questa immagine nelle gallerie. Usare [none] per rimuovere il link di questa immagine nelle gallerie."
+
+#: wp-gallery-custom-links.php:97
+msgid "Gallery Link Target"
+msgstr "Collegamento alla Galleria di destinazione"
+
+#: wp-gallery-custom-links.php:100
+msgid "This setting will be applied to this image in galleries regardless of whether or not a Gallery Link URL has been specified."
+msgstr "Questa impostazione verrà applicata a tale immagine nelle gallerie, indipendentemente dal fatto che non sia specificato un \"URL di collegamento alla Galleria\"."
+
+#: wp-gallery-custom-links.php:106
+msgid "Do Not Change"
+msgstr "Non cambiare"
+
+#: wp-gallery-custom-links.php:107
+msgid "Same Window"
+msgstr "Stessa Finestra"
+
+#: wp-gallery-custom-links.php:108
+msgid "New Window"
+msgstr "Nuova finestra"
+
+#: wp-gallery-custom-links.php:114
+msgid "Gallery Link OnClick Effect"
+msgstr "Collegamento alla Galleria con effetto OnClick"
+
+#: wp-gallery-custom-links.php:117
+msgid "Lightbox and other OnClick events are removed by default from this image in galleries. This setting will only be applied to this image in galleries if this image has a Gallery Link URL specified."
+msgstr "Lightbox e altri eventi OnClick vengono rimossi per default da questa immagine nelle gallerie. Questa impostazione verrà applicata solo a tale immagine nelle gallerie se ha un \"URL di collegamento alla Galleria\" specificato."
+
+#: wp-gallery-custom-links.php:123
+msgid "Remove"
+msgstr "Rimuovi"
+
+#: wp-gallery-custom-links.php:124
+msgid "Keep"
+msgstr "Mantieni"
+
+#: wp-gallery-custom-links.php:129
+msgid "Gallery Link Additional CSS Classes"
+msgstr "Ulteriori classi CSS per il Link alla Galleria"
+
+#: wp-gallery-custom-links.php:132
+msgid "Additional CSS classes specified here will be applied to the <strong><em>link</em></strong> around this image in galleries regardless of whether or not a Gallery Link URL has been specified."
+msgstr "Ulteriori classi CSS qui specificate verranno applicate al <strong><em>collegamento</em></strong> attorno a questa immagine in gallerie, indipendentemente dal fatto che sia stato specificato un'URL di collegamento alla Galleria."
+
+#. Plugin Name of the plugin/theme
+msgid "WP Gallery Custom Links"
+msgstr "WP Gallery Custom Links"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.fourlightsweb.com/wordpress-plugins/wp-gallery-custom-links/"
+msgstr "http://www.fourlightsweb.com/wordpress-plugins/wp-gallery-custom-links/"
+
+#. Description of the plugin/theme
+msgid "Specify custom links for WordPress gallery images (instead of attachment or file only)."
+msgstr "Specifica collegamenti personalizzati per le immagini nella galleria di WordPress (invece di un Allegato o file unico)."
+
+#. Author of the plugin/theme
+msgid "Four Lights Web Development"
+msgstr "Four Lights Web Development"
+
+#. Author URI of the plugin/theme
+msgid "http://www.fourlightsweb.com"
+msgstr "http://www.fourlightsweb.com"

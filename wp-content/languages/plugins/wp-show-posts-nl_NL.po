@@ -1,0 +1,509 @@
+# Translation of Plugins - WP Show Posts - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - WP Show Posts - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-04-15 14:41:17+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - WP Show Posts - Stable (latest release)\n"
+
+#: admin/metabox.php:901
+msgid "No results message"
+msgstr "Geen resultaten-melding"
+
+#: admin/metabox.php:645
+msgid "More settings"
+msgstr "Meer instellingen"
+
+#: admin/metabox.php:708
+msgid "Exclude Post IDs"
+msgstr "Uit te sluiten bericht IDs"
+
+#. Author URI of the plugin/theme
+msgid "https://tomusborne.com"
+msgstr "https://tomusborne.com"
+
+#. Author of the plugin/theme
+msgid "Tom Usborne"
+msgstr "Tom Usborne"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wpshowposts.com"
+msgstr "https://wpshowposts.com"
+
+#: inc/defaults.php:59
+msgid "Sorry, no posts were found."
+msgstr "Helaas geen berichten gevonden."
+
+#: inc/functions.php:388
+msgid "Next &rarr;"
+msgstr "Volgende &rarr;"
+
+#: inc/functions.php:387
+msgid "&larr; Previous"
+msgstr "&larr; Vorige"
+
+#: inc/functions.php:70
+msgid "View all posts by %s"
+msgstr "Bekijk alle berichten op %s"
+
+#: admin/post-type.php:43
+msgid "Post List"
+msgstr "Berichtenlijst"
+
+#: admin/post-type.php:40
+msgid "Filter items list"
+msgstr "Filter itemlijst"
+
+#: admin/post-type.php:39
+msgid "Items list navigation"
+msgstr "Itemlijst navigatie"
+
+#: admin/post-type.php:38
+msgid "Items list"
+msgstr "Itemlijst"
+
+#: admin/post-type.php:37
+msgid "Uploaded to this list"
+msgstr "Geüpload naar deze lijst"
+
+#: admin/post-type.php:35
+msgid "Use as featured image"
+msgstr "Gebruik als uitgelichte afbeelding"
+
+#: admin/post-type.php:34
+msgid "Remove featured image"
+msgstr "Verwijder uitgelichte afbeelding"
+
+#: admin/post-type.php:33
+msgid "Set featured image"
+msgstr "Stel in als uitgelichte afbeelding"
+
+#: admin/post-type.php:32
+msgid "Featured Image"
+msgstr "Uitgelichte afbeelding"
+
+#: admin/post-type.php:31
+msgid "Not found in Trash"
+msgstr "Niet gevonden in prullenbak"
+
+#: admin/post-type.php:30
+msgid "Not found"
+msgstr "Niet gevonden"
+
+#: admin/post-type.php:29
+msgid "Search List"
+msgstr "Zoek lijst"
+
+#: admin/post-type.php:28
+msgid "View List"
+msgstr "Bekijk lijst"
+
+#: admin/post-type.php:27
+msgid "Update List"
+msgstr "Update lijst"
+
+#: admin/post-type.php:26
+msgid "Edit List"
+msgstr "Bewerk lijst"
+
+#: admin/post-type.php:25
+msgid "New List"
+msgstr "Nieuwe lijst"
+
+#: admin/post-type.php:24
+msgid "Add New"
+msgstr "Maak nieuwe"
+
+#: admin/post-type.php:23
+msgid "Add New List"
+msgstr "Maak nieuwe lijst"
+
+#: admin/post-type.php:22
+msgid "All Lists"
+msgstr "Alle lijsten"
+
+#: admin/post-type.php:20
+msgid "List Archives"
+msgstr "Lijstarchieven"
+
+#: admin/post-type.php:17
+msgctxt "Post Type Singular Name"
+msgid "Post List"
+msgstr "Berichtlijst"
+
+#: admin/post-type.php:16
+msgctxt "Post Type General Name"
+msgid "Post Lists"
+msgstr "Berichtlijsten"
+
+#: admin/metabox.php:966
+msgid "Function"
+msgstr "Functie"
+
+#: admin/metabox.php:963
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: admin/metabox.php:950
+msgid "Usage"
+msgstr "Gebruik"
+
+#: admin/metabox.php:785
+msgid "ID"
+msgstr "ID"
+
+#: admin/metabox.php:763
+msgid "Ascending"
+msgstr "Oplopend"
+
+#: admin/metabox.php:762
+msgid "Descending"
+msgstr "Aflopend"
+
+#: admin/metabox.php:784
+msgid "No order"
+msgstr "Geen sortering"
+
+#: admin/metabox.php:760
+msgid "Order"
+msgstr "Sortering"
+
+#: admin/metabox.php:527
+msgid "Include date"
+msgstr "Met datum"
+
+#: admin/metabox.php:508 admin/metabox.php:548 admin/metabox.php:588
+#: admin/metabox.php:628
+msgid "Below post"
+msgstr "Onder bericht"
+
+#: admin/metabox.php:477
+msgid "Meta"
+msgstr "Meta"
+
+#: admin/metabox.php:462
+msgid "Read more text"
+msgstr "Lees meer-tekst"
+
+#: admin/metabox.php:415
+msgid "Include title"
+msgstr "Met titel"
+
+#: admin/metabox.php:397
+msgid "Excerpt length (words)"
+msgstr "Lengte samenvatting (woorden)"
+
+#: admin/metabox.php:378
+msgid "None"
+msgstr "Geen"
+
+#: admin/metabox.php:377
+msgid "Full"
+msgstr "Volledig"
+
+#: admin/metabox.php:376
+msgid "Excerpt"
+msgstr "Samenvatting"
+
+#: admin/metabox.php:347
+msgid "Above title"
+msgstr "Boven titel"
+
+#: admin/metabox.php:346 admin/metabox.php:507 admin/metabox.php:547
+#: admin/metabox.php:587 admin/metabox.php:627
+msgid "Below title"
+msgstr "Onder titel"
+
+#: admin/metabox.php:487
+msgid "Include author"
+msgstr "Met auteursnaam"
+
+#: admin/metabox.php:325
+msgid "Right"
+msgstr "Rechts"
+
+#: admin/metabox.php:324
+msgid "Center"
+msgstr "Gecentreerd"
+
+#: admin/metabox.php:323
+msgid "Left"
+msgstr "Links"
+
+#: admin/metabox.php:303
+msgid "Image height (px)"
+msgstr "Hoogte afbeelding (px)"
+
+#: admin/metabox.php:285
+msgid "Image width (px)"
+msgstr "Breedte afbeelding (px)"
+
+#: admin/metabox.php:257 admin/metabox.php:267
+msgid "Images"
+msgstr "Afbeeldingen"
+
+#: admin/metabox.php:241
+msgid "Columns gutter"
+msgstr "Kolomspatiëring"
+
+#: admin/metabox.php:206 admin/metabox.php:216
+msgid "Columns"
+msgstr "Kolommen"
+
+#: admin/metabox.php:189
+msgid "Pagination"
+msgstr "Paginering"
+
+#: admin/metabox.php:172
+msgid "Posts per page"
+msgstr "Berichten per pagina"
+
+#: admin/metabox.php:154
+msgid "Terms"
+msgstr "Termen"
+
+#: admin/metabox.php:135
+msgid "Taxonomy"
+msgstr "Taxonomie"
+
+#: admin/metabox.php:321
+msgid "Image alignment"
+msgstr "Uitlijning afbeelding"
+
+#: admin/metabox.php:106
+msgid "Posts"
+msgstr "Berichten"
+
+#. Translators: 1: month, 2: day, 3: year.
+#: admin/butterbean/tmpl/control-date.php:52
+#: admin/butterbean/tmpl/control-datetime.php:52
+msgid "%1$s %2$s, %3$s"
+msgstr "%2$s %1$s %3$s"
+
+#. Translators: 1: month, 2: day, 3: year, 4: hour, 5: minute, 6: second.
+#: admin/butterbean/tmpl/control-date.php:46
+#: admin/butterbean/tmpl/control-datetime.php:46
+msgid "%1$s %2$s, %3$s @ %4$s:%5$s:%6$s"
+msgstr "%2$s %1$s %3$s @ %4$s:%5$s:%6$s"
+
+#: admin/butterbean/inc/controls/class-control-image.php:71
+msgid "No image selected"
+msgstr "Geen afbeelding geselecteerd"
+
+#: admin/butterbean/inc/controls/class-control-image.php:70
+msgid "Remove image"
+msgstr "Verwijder afbeelding"
+
+#: admin/butterbean/inc/controls/class-control-image.php:69
+msgid "Change image"
+msgstr "Wijzig afbeelding"
+
+#: admin/butterbean/inc/controls/class-control-image.php:68
+msgid "Choose image"
+msgstr "Selecteer afbeelding"
+
+#: admin/butterbean/inc/controls/class-control-date.php:131
+#: admin/butterbean/inc/controls/class-control-datetime.php:136
+msgid "Second"
+msgstr "Seconde"
+
+#: admin/butterbean/inc/controls/class-control-date.php:123
+#: admin/butterbean/inc/controls/class-control-datetime.php:128
+msgid "Minute"
+msgstr "Minuut"
+
+#: admin/butterbean/inc/controls/class-control-date.php:115
+#: admin/butterbean/inc/controls/class-control-datetime.php:120
+msgid "Hour"
+msgstr "Uur"
+
+#: admin/butterbean/inc/controls/class-control-date.php:107
+#: admin/butterbean/inc/controls/class-control-datetime.php:112
+msgid "Day"
+msgstr "Dag"
+
+#: admin/butterbean/inc/controls/class-control-date.php:83
+#: admin/butterbean/inc/controls/class-control-datetime.php:88
+msgid "Month"
+msgstr "Maand"
+
+#: admin/butterbean/inc/controls/class-control-image.php:66
+msgid "Add image"
+msgstr "Voeg afbeelding toe"
+
+#: admin/butterbean/inc/controls/class-control-image.php:67
+msgid "Set as image"
+msgstr "Selecteer als afbeelding"
+
+#: admin/butterbean/inc/controls/class-control-date.php:74
+#: admin/butterbean/inc/controls/class-control-datetime.php:79
+msgid "Year"
+msgstr "Jaar"
+
+#. #-#-#-#-#  wp-show-posts-code.pot (WP Show Posts 1.1.2)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: admin/admin.php:35 admin/metabox.php:94 admin/post-type.php:18
+#: admin/post-type.php:19 admin/widget.php:19
+msgid "WP Show Posts"
+msgstr "WP Show Posts"
+
+#: admin/metabox.php:822
+msgid "Trash"
+msgstr "Prullenbak"
+
+#: admin/metabox.php:820
+msgid "Private"
+msgstr "Privé"
+
+#: admin/metabox.php:876
+msgid "Tax operator"
+msgstr "Tax operator"
+
+#: admin/metabox.php:743
+msgid "Offset"
+msgstr "Offset"
+
+#: admin/metabox.php:725
+msgid "Ignore sticky posts"
+msgstr "Negeer sticky berichten"
+
+#: admin/metabox.php:656
+msgid "Author ID"
+msgstr "Auteur ID"
+
+#: admin/metabox.php:585
+msgid "Terms location"
+msgstr "Plaats termen"
+
+#: admin/metabox.php:567
+msgid "Include terms"
+msgstr "Met termen"
+
+#: admin/metabox.php:545
+msgid "Date location"
+msgstr "Plaats datum"
+
+#: admin/metabox.php:505
+msgid "Author location"
+msgstr "Plaats auteur"
+
+#: admin/metabox.php:364
+msgid "Content"
+msgstr "Inhoud"
+
+#: admin/metabox.php:374
+msgid "Content type"
+msgstr "Inhoudstype"
+
+#: admin/metabox.php:790
+msgid "Date"
+msgstr "Datum"
+
+#: admin/metabox.php:791
+msgid "Modified"
+msgstr "Aangepast"
+
+#: admin/metabox.php:116 admin/metabox.php:789
+msgid "Post type"
+msgstr "Berichttype"
+
+#: admin/metabox.php:788
+msgid "Slug"
+msgstr "Slug"
+
+#: admin/metabox.php:787
+msgid "Title"
+msgstr "Titel"
+
+#: admin/metabox.php:786
+msgid "Author"
+msgstr "Auteur"
+
+#: admin/metabox.php:815
+msgid "Published"
+msgstr "Gepubliceerd"
+
+#: admin/metabox.php:813
+msgid "Status"
+msgstr "Status"
+
+#: admin/metabox.php:794
+msgid "Comment count"
+msgstr "Aantal reacties"
+
+#: admin/metabox.php:793
+msgid "Random"
+msgstr "Willekeurig"
+
+#. Description of the plugin/theme
+msgid "WP Show Posts allows you to list posts (from any post type) anywhere on your site. This includes WooCommerce products or any other post type you might have! Check out the pro version for even more features at https://wpshowposts.com."
+msgstr "Met WP Show Posts kun je lijsten met berichten van elk type voor je website maken. Inclusief lijsten van WooCommerce producten en andere berichttypes. Bekijk de pro-versie die nog meer features heeft op https://wpshowposts.com."
+
+#: admin/post-type.php:36
+msgid "Insert into list"
+msgstr "Toevoegen aan lijst"
+
+#: admin/post-type.php:21
+msgid "Parent List:"
+msgstr "Hoofdlijst:"
+
+#: admin/metabox.php:782
+msgid "Order by"
+msgstr "Sorteren op"
+
+#: admin/metabox.php:190
+msgid "Pagination should only be used if your posts are the only thing in the content area to prevent duplicate content issues."
+msgstr "Het is verstandig alleen te pagineren wanneer je berichten het enige onderdeel van het inhoudsgebied zijn. Dit om problemen met het dupliceren van inhoud te voorkomen."
+
+#: admin/metabox.php:792
+msgid "Parent"
+msgstr "Hoofd"
+
+#: admin/metabox.php:691
+msgid "Post IDs"
+msgstr "Bericht IDs"
+
+#: admin/metabox.php:344
+msgid "Image location"
+msgstr "Plaats afbeelding"
+
+#: admin/metabox.php:859
+msgid "Meta value"
+msgstr "Meta-waarde"
+
+#: admin/metabox.php:842
+msgid "Meta key"
+msgstr "Meta-sleutel"
+
+#: admin/metabox.php:821
+msgid "Inherit"
+msgstr "Overerving"
+
+#: admin/metabox.php:817
+msgid "Draft"
+msgstr "Concept"
+
+#: admin/metabox.php:818
+msgid "Auto draft"
+msgstr "Auto-concept"
+
+#: admin/metabox.php:819
+msgid "Future"
+msgstr "Toekomst"
+
+#: admin/metabox.php:816
+msgid "Pending"
+msgstr "In afwachting"
+
+#: admin/metabox.php:823
+msgid "Any"
+msgstr "Elke"
+
+#: admin/metabox.php:673
+msgid "Exclude current"
+msgstr "Sluit huidige uit"
