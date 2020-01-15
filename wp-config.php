@@ -21,13 +21,13 @@ define('WP_AUTO_UPDATE_CORE', 'minor');// Esta opción es imprescindible para ga
  */
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', '6414068_sa253690_main');
+define('DB_NAME', 'freelancer');
 /** MySQL database username */
-define('DB_USER', 'sa253690');
+define('DB_USER', 'root');
 /** MySQL database password */
-define('DB_PASSWORD', 'Zv@d407e');
+define('DB_PASSWORD', 'root');
 /** MySQL hostname */
-define('DB_HOST', 'PMYSQL101.dns-servicio.com');
+define('DB_HOST', 'localhost');
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
 /** The Database Collate type. Don't change this if in doubt. */
